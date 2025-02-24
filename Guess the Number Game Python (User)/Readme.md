@@ -31,7 +31,7 @@ You can run this game in Google Colab:
 
 Alternatively, click the link below to open the notebook directly (replace with your actual Colab link):
 
-[Open Guess the Number Game on Google Colab](https://colab.research.google.com/your-notebook-link-here)
+[Open Guess the Number Game on Google Colab](https://colab.research.google.com/drive/1DdJnlfs7c3Nwvl8QYn0U2ISVQuQ6h9G5?usp=sharing)
 
 ## Requirements
 
