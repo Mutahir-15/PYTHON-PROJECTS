@@ -4,21 +4,21 @@ A simple Python game where the computer tries to guess the number you are thinki
 
 ## How to Play
 
-1. **Think of a number** between 1 and 100.
+1. **Think of a number** between 1 and 10.
 2. The computer will guess a number.
 3. When prompted, provide feedback:
-   - Type **H** if the guess is too high.
-   - Type **L** if the guess is too low.
+   - Type **H** if the guess is high.
+   - Type **L** if the guess is low.
    - Type **C** if the guess is correct.
 4. The game will continue adjusting its guesses until it correctly guesses your number.
 
 ## How It Works
 
-- The program starts with an initial range (1 to 100).
+- The program starts with an initial range (1 to 10).
 - It calculates the midpoint of the range as its guess.
 - Based on your feedback:
-  - If the guess is **too high**, the upper bound is updated.
-  - If the guess is **too low**, the lower bound is updated.
+  - If the guess is **high**, the upper bound is updated.
+  - If the guess is **low**, the lower bound is updated.
 - This process continues until you confirm the guess is correct.
 
 ## Running the Game
