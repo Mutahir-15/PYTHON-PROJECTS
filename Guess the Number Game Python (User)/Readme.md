@@ -25,7 +25,7 @@ A simple Python game where the computer tries to guess the number you are thinki
 
 You can run this game in Google Colab:
 
-1. Open [Guess the Number Game (User)](https://colab.research.google.com/drive/1DdJnlfs7c3Nwvl8QYn0U2ISVQuQ6h9G5?usp=sharing).
+1. Open [Google Colab](https://colab.research.google.com/).
 2. Copy the code from this repository into a new notebook.
 3. Run the notebook and follow the on-screen instructions.
 
