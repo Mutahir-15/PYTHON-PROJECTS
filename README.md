@@ -16,7 +16,7 @@ Each project is self-contained and beginner-friendly. Click on any project to ex
 ✅ **[Rock Paper Scissors]()** – Play the classic Rock-Paper-Scissors game against the computer.  
 
 ### 🔐 Utility & Tools  
-🔹 **[Password Generator]()** – Generate secure, random passwords with Python.  
+🔹 **[Password Generator](https://password-generator-strength-meter.streamlit.app/)** – Generate secure, random passwords with Python.  
 🔹 **[BMI Calculator (Streamlit)]()** – A simple web-based BMI calculator built with Streamlit.  
 🔹 **[Python Website in 15 Minutes]()** – A quick demo on building a website using Python.  
 
