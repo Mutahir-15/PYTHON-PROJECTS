@@ -10,7 +10,7 @@ A fun and interactive web-based **Mad Libs Game** that lets you create hilarious
 ---
 
 ## 🎮 How to Play  
-### **Play Online (Recommended) 🎉**  
+### **Play Online 🎉**  
 1. **Click the link below to launch the game**  
 2. **Enter your words** when prompted.  
 3. **Generate & read your story!**  
