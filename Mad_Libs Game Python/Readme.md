@@ -1,21 +1,29 @@
-# Mad Libs Game
+# 🎭 Mad Libs Game
 
-A fun, interactive Python game where you fill in blanks to create hilarious stories!
+A fun and interactive web-based **Mad Libs Game** that lets you create hilarious stories by filling in the blanks with random words! Now available as a **Streamlit web app** for easy access.
 
-## Features
-- **Interactive Story Creation:** Input words (e.g., names, adjectives, verbs) to generate a unique story.
-- **User-Friendly:** Simple, engaging gameplay that runs directly in your browser.
-- **Google Colab Ready:** Easily accessible via a Google Colab notebook.
+## 🚀 Features  
+✅ **Interactive Story Creation:** Enter words (e.g., adjectives, nouns, verbs) to generate a unique and funny story.  
+✅ **Web-Based & User-Friendly:** No installation needed—play directly in your browser!  
+✅ **Real-Time Story Preview:** See your customized story come to life instantly.  
 
-## How to Play
-1. Click the Google Colab link below.
-2. Follow the instructions in the notebook.
-3. Enter your words when prompted.
-4. Enjoy your custom-generated story!
+---
 
-## Run on Google Colab
-[Open Mad Libs Game on Google Colab](https://colab.research.google.com/drive/1bGh88BAwy26bopZliVVQeap5v4pTGmhA?usp=sharing)
+## 🎮 How to Play  
+### **Play Online 🎉**  
+1. **Click the link below to launch the game**  
+2. **Enter your words** when prompted.  
+3. **Generate & read your story!**  
 
-## Requirements
-- Python 3.x
-- A web browser (for Google Colab)
+👉 **[Play Mad Libs Game on Streamlit](https://mad-libs-game.streamlit.app/)**  
+
+---
+
+## ⚙️ Requirements  
+For local execution, you need:  
+- Python 3.x  
+- Streamlit (`pip install streamlit`)    
+
+---
+
+Enjoy playing! 😆🎭
