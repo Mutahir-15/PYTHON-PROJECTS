@@ -2,8 +2,9 @@ import streamlit as st
 
 # App Configuration
 st.set_page_config(page_icon="✨", page_title="Mad Libs Game")
-st.header("🎭 Welcome to Mad Libs Game!")
+st.header("📜 Welcome to Mad Libs Game!")
 st.write("💪 Are you ready to create a hilarious story? Fill in the blanks below!")
+st.toast("The Mad_Libs Game!")
 
 # Input Section
 with st.form("madlibs_form"):
@@ -30,11 +31,41 @@ with st.form("madlibs_form"):
             the best moments in life come with a side of adventure. 🎉
             """
             
-            # Story displayed here
+            # Story with all fields filled displayed here
             st.balloons()
             st.subheader("🌟 Your Mad Libs Story:")
             st.write(story)
-            
-            st.sidebar(
-            
-            )
+    import streamlit as st
+
+# Sidebar Section
+st.sidebar.header("📖 How to Play")
+
+st.sidebar.subheader("Step 1: Fill in the Blanks")
+st.sidebar.write("- Enter your **name**")
+st.sidebar.write("- Choose a **profession**")
+st.sidebar.write("- Pick your **favorite food**")
+st.sidebar.write("- Name a **city**")
+st.sidebar.write("- Select an **animal**")
+st.sidebar.write("- Choose your **mood**")
+
+st.sidebar.subheader("✨ Step 2: Generate Your Story")
+st.sidebar.write("Click the **'Generate Story'** button to create your unique Mad Libs story!")
+
+st.sidebar.subheader("🎉 Step 3: Share & Enjoy")
+st.sidebar.write("Copy your story and share it with friends for a good laugh! 😂")
+
+st.sidebar.divider()  # Creates a horizontal line
+
+st.sidebar.subheader("💡 Tips:")
+st.sidebar.write("- Be **creative** with your answers!")
+st.sidebar.write("- Try **different combinations** for unique stories")
+st.sidebar.write("- Have fun and **don’t overthink it!**")
+
+# Add About Section
+st.sidebar.markdown("---")
+st.sidebar.header("ℹ️ About")
+st.sidebar.write("This Mad Libs game was created using:")
+st.sidebar.write("- Python 🐍")
+st.sidebar.write("- Streamlit 🎈")
+st.sidebar.write("- Lots of creativity 🎨")
+st.sidebar.write("Made with ❤️ by **Mutahir Bin Athar**")
