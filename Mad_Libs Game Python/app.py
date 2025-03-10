@@ -30,16 +30,14 @@ with st.form("madlibs_form"):
             an unexpected visitor—a friendly **{animal}**—joined the fun. **{name}** felt **{mood.lower()}** and realized that sometimes,
             the best moments in life come with a side of adventure. 🎉
             """
-            
-            # Story with all fields filled displayed here
-            st.balloons()
             st.subheader("🌟 Your Mad Libs Story:")
-            st.write(story)
-    import streamlit as st
+            st.markdown(story)
+            st.balloons()
+        else:
+            st.warning("⚠️ Please fill in all fields before generating your story!")
 
-# Sidebar Section
+# Sidebar Section // Used like this to make this section compatible for streamlit
 st.sidebar.header("📖 How to Play")
-
 st.sidebar.subheader("Step 1: Fill in the Blanks")
 st.sidebar.write("- Enter your **name**")
 st.sidebar.write("- Choose a **profession**")
