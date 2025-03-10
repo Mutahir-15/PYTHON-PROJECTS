@@ -21,12 +21,3 @@ Each project is self-contained and beginner-friendly. Click on any project to ex
 🔹 **[Python Website in 15 Minutes]()** – A quick demo on building a website using Python.  
 
 ---
-
-## 🚀 Getting Started  
-To run these projects locally, follow these steps:  
-
-### 📥 1. Clone the Repository  
-Open your terminal and run:  
-```sh
-git clone https://github.com/your-username/python-mini-projects.git
-cd python-mini-projects
