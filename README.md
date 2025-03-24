@@ -1,4 +1,4 @@
-# AI-101-GIAIC-Assignments
+# PYTHON PROJECTS
 
 A collection of **fun and interactive Python projects** that showcase different programming concepts! 🚀  
 
