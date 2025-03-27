@@ -1,24 +1,23 @@
-# 🔐 Password Generator & Strength Meter | Streamlit App  
+# PYTHON PROJECTS
 
-This **Password Generator & Strength Meter** is built using **Streamlit** to analyze and evaluate the security of passwords in real-time. It provides **instant feedback, strength rating** to help users create **stronger passwords** for better security.  
+A collection of **fun and interactive Python projects** that showcase different programming concepts! 🚀  
 
-## 🚀 Features  
-- ✅ **Real-time Password Analysis** – Instantly evaluates password strength  
-- ✅ **Security Insights** – Detects common vulnerabilities  
-- ✅ **Simple & User-Friendly** – Easy-to-use interface built with Streamlit  
-- ✅ **Open Source** – Contributions & improvements are welcome!  
+---
 
-## 🛠 Tech Stack  
-- **Python** 🐍  
-- **Streamlit** 📊  
+## 📌 Projects Included  
+Each project is self-contained and beginner-friendly. Click on any project to explore more details!  
 
-## 🎯 How to Run Locally  
-Follow these steps to run the app on your local machine:  
+### 🎮 Games & Fun Projects  
+✅ **[Countdown Timer]()** – A simple countdown timer in Python.  
+✅ **[Guess the Number (Computer)]()** – The computer picks a number, and you try to guess it!  
+✅ **[Guess the Number (User)]()** – You pick a number, and the computer tries to guess it.  
+✅ **[Hangman]()** – The classic word-guessing game with limited chances!  
+✅ **[Mad Libs Game](https://mad-libs-game.streamlit.app/)** – Fill in the blanks and create a hilarious story!  
+✅ **[Rock Paper Scissors]()** – Play the classic Rock-Paper-Scissors game against the computer.  
 
-1. **Clone the repository:**  
-   ```bash
-   git clone https://github.com/Mutahir-15/AI-101-GIAIC-Assignments.git
-   cd Password Generator
+### 🔐 Utility & Tools  
+🔹 **[Password Generator](https://password-generator-strength-meter.streamlit.app/)** – Generate secure, random passwords with Python.  
+🔹 **[BMI Calculator (Streamlit)]()** – A simple web-based BMI calculator built with Streamlit.  
+🔹 **[Python Website in 15 Minutes]()** – A quick demo on building a website using Python.  
 
-## 🔗 Web App's Link:
-**🌐 Try it Now:** [Password Generator](https://password-generator-strength-meter.streamlit.app/)
+---
