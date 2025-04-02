@@ -15,6 +15,8 @@ ac = st.number_input("Enter the length of AC:", min_value=0.0, value=0.0, step=0
 # Calculating the hypotenuse when both inputs are provided
 if ab > 0 and ac > 0:
     bc = math.sqrt(ab**2 + ac**2)
+    st.write(f"AB: {ab}")
+    st.write(f"AC: {ac}")
     st.success(f"The length of BC (the hypotenuse) is: {bc}")
 elif ab == 0 or ac == 0:
     st.write("Please enter values greater than 0 for both AB and AC to calculate the hypotenuse.")
