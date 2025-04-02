@@ -16,6 +16,9 @@ mass_in_kg = st.number_input("Enter the mass of the particle in kg", min_value=0
 # Energy Calculation
 if mass_in_kg > 0:
     energy_in_joules = mass_in_kg * c ** 2
-    st.success(f"The energy of the particle is {energy_in_joules} joules.")
+    st.write("e = m * C²...")
+    st.write(f"m = {mass_in_kg} kg")
+    st.write(f"C = {c} m/s")
+    st.success(f"The energy is {energy_in_joules} joules!")
 else:
     st.warning("Please enter a valid mass value.")
