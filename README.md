@@ -5,10 +5,10 @@ Welcome to **PYTHON-PROJECTS**! 🚀
 This repository contains all my assignments and projects built using **Python** and **Streamlit**. It serves as a collection of my learning journey, showcasing various concepts and implementations.
 
 ## 📌 Table of Contents
+- [Usage](#usage)
+- [Installation](#installation)
 - [Projects Overview](#projects-overview)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
 
 ## 📂 Projects Overview
 Here are some of the key projects included in this repository:
