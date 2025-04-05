@@ -1,11 +1,3 @@
-"""
-Program: shorten (Streamlit Version)
----------------------------------------
-Builds a list by letting the user add values one at a time.
-When the user clicks 'Shorten List', removes elements from the end until the list
-is MAX_LENGTH items long, printing each removed element.
-"""
-
 import streamlit as st
 
 # Constant for maximum length
@@ -32,7 +24,8 @@ def shorten(lst):
     else:
         st.write("No elements were removed (list is already short enough).")
 
-# Set the title of the app
+# Page layout
+st.set_page_config(page_title="Shorten a List")
 st.title("Shorten a List")
 
 # Explanation of the program
@@ -57,15 +50,14 @@ val = st.text_input("Enter a value:", value="", key="value_input")
 
 # Button to add the value
 if st.button("Add Value"):
-    if val:  # Only add if the input is not empty
+    if val: 
         st.session_state.my_list.append(val)
-        st.rerun()  # Rerun to update the display and clear the input
+        st.rerun()
     else:
         st.warning("Please enter a non-empty value.")
 
 # Button to shorten the list
 if st.button("Shorten List"):
-    # Create a copy of the list to modify (to preserve the original for display)
     temp_list = st.session_state.my_list.copy()
     shorten(temp_list)
     st.session_state.my_list = temp_list
