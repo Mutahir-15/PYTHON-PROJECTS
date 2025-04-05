@@ -2,7 +2,8 @@
 import streamlit as st
 
 # Set the title of the app
-st.title("Build a List")
+st.set_page_config(page_title="Get List", page_icon="📝")
+st.title("Get List")
 
 # Explanation of the program
 st.write("""
