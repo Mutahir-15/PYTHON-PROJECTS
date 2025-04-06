@@ -7,15 +7,6 @@ st.title("Print the First 20 Even or Odd Numbers")
 
 # Method: Using an if-statement
 def print_events_with_if(number_type):
-    """
-    Prints the first 20 numbers of the specified type (even or odd) using an if-statement.
-    
-    Args:
-        number_type (str): "Even Numbers" or "Odd Numbers"
-    
-    Returns:
-        list: The first 20 numbers of the specified type
-    """
     numbers = []
     count = 0
     num = 0
