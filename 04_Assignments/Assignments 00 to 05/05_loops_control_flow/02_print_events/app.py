@@ -1,4 +1,4 @@
-# Printing 20 Even Numbers
+# Printing Even Numbers
 import streamlit as st
 
 # Page layout
