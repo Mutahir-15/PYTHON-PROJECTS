@@ -125,7 +125,7 @@ This app helps you make a positive impact in your local community through AI-gen
 - The app acts as an intelligent agent, choosing an issue and generating an action that align with your focus.
 - Click 'Generate Idea' again to see a new suggestion for the same focus area.
 - Click 'Reset' to start over with a new focus area.
-- Let’s make our community a better place, one kind act at a time!
+- Let's make our community a better place, one kind act at a time!
 """)
 
 # Sidebar input section
@@ -171,4 +171,4 @@ if st.session_state.results_shown:
         st.error(st.session_state.current_action)
     else:
         st.success(f"**Action:** {st.session_state.current_action}")
-    st.write("Let’s make a difference, one kind act at a time!")
+    st.write("Let's make a difference, one kind act at a time!")
