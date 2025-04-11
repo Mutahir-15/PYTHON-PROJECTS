@@ -2,7 +2,7 @@
 
 Welcome to **PYTHON-PROJECTS**! 🚀
 
-This repository contains all my assignments and projects built using **Python** and **Streamlit**. It serves as a collection of my learning journey, showcasing various concepts and implementations.
+This repository contains all my assignments and projects (70 +) built using **Python** and **Streamlit**. It serves as a collection of my learning journey, showcasing various concepts and implementations.
 
 ## 📌 Table of Contents
 - [Usage](#usage)
