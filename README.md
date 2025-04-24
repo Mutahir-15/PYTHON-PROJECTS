@@ -2,6 +2,7 @@
 
 Welcome to **PYTHON-PROJECTS**! 🚀
 
+
  # Python and Streamlit Projects Repository 
  
   A comprehensive collection of over 70 assignments and projects built using Python and Streamlit. This repository serves as a showcase of my learning journey, highlighting various concepts and implementations. 
@@ -50,6 +51,9 @@ Welcome to **PYTHON-PROJECTS**! 🚀
  
   --- 
   Generated from [DocuAI](https://docu-ai-git.vercel.app/) 
+
+
+This repository contains all my assignments and projects built using **Python** and **Streamlit**. It serves as a collection of my learning journey, showcasing various concepts and implementations.
 
 
 ## 📌 Table of Contents
