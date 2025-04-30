@@ -7,15 +7,15 @@ class Car:
         self.brand = brand
 
     # Public Method
-    def display_brand(self):
-        print(f"{self.brand} is my favourite car Brand.")
+    def start(self):
+        print(f"The {self.brand} has started.")
 
 # Creating an object of Car
 car1 = Car("TOYOTA")
 print("Brand:", car1.brand)
 
 # Calling public Method
-car1.display_brand()
+car1.start()
 
 # Understanding Concepts.
 """
