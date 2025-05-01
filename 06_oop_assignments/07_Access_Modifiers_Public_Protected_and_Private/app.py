@@ -36,6 +36,6 @@ Public: "name", accessable any where.
 Protected: "_salary", conventionally for internal use.
 Private: "__ssn", Name mangles (harder to use).
 
-What is Destructor?
-It runs when the object is destroyed.
+What is name mangling?
+Name mangling is a mechanism used in Python to make private variables harder to access from outside the class.
 """
