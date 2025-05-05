@@ -38,13 +38,13 @@ This makes the learning journey **easier not only for me but also for anyone rev
 ---
 
 ## 🔧 Folder Structure
-├── 01_Using-self/
-├── 02_Using_cls/
-├── 03_Pubclic_variables_and_methods/
-├── ...
-├── 20_Custom_Exception/
-├── 21_Iterable_Class/
-└── README.md
+├── 01_Using-self/<br>
+├── 02_Using_cls/<br>
+├── 03_Pubclic_variables_and_methods/<br>
+├── ...<br>
+├── 20_Custom_Exception/<br>
+├── 21_Iterable_Class/<br>
+└── README.md<br>
 
 ---
 
