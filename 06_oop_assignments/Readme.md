@@ -1,39 +1,41 @@
-# Guess the Number Game (User)
+# 🐍 Python OOP Assignments – 21 Days of Object-Oriented Programming
 
-A simple Python game where the computer tries to guess the number you are thinking of, using a binary search approach. It's a fun way to see how algorithms work while you interact with the program!
+**Alhamdulillah!**  
+This repository contains a comprehensive series of **21 Python Object-Oriented Programming (OOP) Assignments**, each crafted to demonstrate and strengthen foundational OOP principles through hands-on coding.
 
-## How to Play
+---
 
-1. **Think of a number** between 1 and 10.
-2. The computer will guess a number.
-3. When prompted, provide feedback:
-   - Type **H** if the guess is high.
-   - Type **L** if the guess is low.
-   - Type **C** if the guess is correct.
-4. The game will continue adjusting its guesses until it correctly guesses your number.
+## 📚 What's Inside?
 
-## How It Works
+Each assignment focuses on a core OOP concept including:
 
-- The program starts with an initial range (1 to 10).
-- It calculates the midpoint of the range as its guess.
-- Based on your feedback:
-  - If the guess is **high**, the upper bound is updated.
-  - If the guess is **low**, the lower bound is updated.
-- This process continues until you confirm the guess is correct.
+- ✅ Classes & Objects  
+- ✅ Instance/Class/Static Methods & Variables  
+- ✅ Inheritance (Single, Multilevel, Multiple, Diamond)  
+- ✅ Access Modifiers  
+- ✅ Abstract Classes  
+- ✅ Composition vs Aggregation  
+- ✅ Method Resolution Order (MRO)  
+- ✅ Decorators (Function & Class)  
+- ✅ Property Decorators  
+- ✅ Custom Exceptions  
+- ✅ Making Classes Iterable  
+- ✅ Callable Objects  
 
-## Running the Game
+---
 
-You can run this game in Google Colab:
+## 💡 Understanding Concepts Section
 
-1. Open [Google Colab](https://colab.research.google.com/).
-2. Copy the code from this repository into a new notebook.
-3. Run the notebook and follow the on-screen instructions.
+To enhance clarity, every assignment includes a **dedicated "Understanding Concepts"** section that breaks down:
 
-Alternatively, click the link below to open the notebook directly (replace with your actual Colab link):
+- The core logic
+- Key takeaways
+- Comparisons (when needed)
+- Real-life analogies (if applicable)
 
-[Open Guess the Number Game on Google Colab](https://colab.research.google.com/drive/1DdJnlfs7c3Nwvl8QYn0U2ISVQuQ6h9G5?usp=sharing)
+This makes the learning journey **easier not only for me but also for anyone revisiting or viewing the project**.
 
-## Requirements
+---
 
-- Python 3.x
-- A web browser (if using Google Colab)
+## 🔧 Folder Structure
+
