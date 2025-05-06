@@ -5,11 +5,11 @@ Welcome to **PYTHON-PROJECTS**! 🚀
 
  # Python and Streamlit Projects Repository 
  
-  A comprehensive collection of over 70 assignments and projects built using Python and Streamlit. This repository serves as a showcase of my learning journey, highlighting various concepts and implementations. 
+  A comprehensive collection of assignments and projects built using Python and Streamlit. This repository serves as a showcase of my learning journey, highlighting various concepts and implementations. 
  
   ## Features 
  
-  - Over 70 assignments and projects demonstrating Python and Streamlit capabilities. 
+  - Many assignments and projects demonstrating Python and Streamlit capabilities. 
   - A wide range of concepts and implementations covered. 
   - Organized structure for easy navigation and reference. 
   - Ideal for learning and exploring Python and Streamlit applications. 
