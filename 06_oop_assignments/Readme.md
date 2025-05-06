@@ -1,92 +1,96 @@
-# 🐍 Python OOP Assignments – 21 Assignments of Object-Oriented Programming
-
-**Alhamdulillah!**  
-This repository contains a comprehensive series of **21 Python Object-Oriented Programming (OOP) Assignments**, each crafted to demonstrate and strengthen foundational OOP principles through hands-on coding.
+# Python OOP Assignments: 21 Object-Oriented Programming Exercises
+This repository contains a comprehensive set of 21 Python Object-Oriented Programming (OOP) assignments, each designed to reinforce fundamental OOP concepts through practical, hands-on coding exercises. The assignments are structured to provide a progressive learning experience, suitable for beginners and intermediate learners alike.
 
 ---
 
-## 📚 What's Inside?
+### Overview
+The assignments cover essential OOP principles, including:
+- Classes and Objects
+- Instance, Class, and Static Methods and Variables
+- Inheritance (Single, Multilevel, Multiple, Diamond)
+- Access Modifiers
+- Abstract Classes
+- Composition and Aggregation
+- Method Resolution Order (MRO)
+- Decorators (Function and Class)
+- Property Decorators
+- Custom Exceptions
+- Iterable Classes
+- Callable Objects
+Each assignment is accompanied by a dedicated "Understanding Concepts" section that provides:
+- A clear explanation of the core logic
+- Key takeaways and insights
+- Comparisons to related concepts (where applicable)
+- Real-world analogies (when relevant)
 
-Each assignment focuses on a core OOP concept including:
-
-- ✅ Classes & Objects  
-- ✅ Instance/Class/Static Methods & Variables  
-- ✅ Inheritance (Single, Multilevel, Multiple, Diamond)  
-- ✅ Access Modifiers  
-- ✅ Abstract Classes  
-- ✅ Composition vs Aggregation  
-- ✅ Method Resolution Order (MRO)  
-- ✅ Decorators (Function & Class)  
-- ✅ Property Decorators  
-- ✅ Custom Exceptions  
-- ✅ Making Classes Iterable  
-- ✅ Callable Objects  
-
----
-
-## 💡 Understanding Concepts Section
-
-To enhance clarity, every assignment includes a **dedicated "Understanding Concepts"** section that breaks down:
-
-- The core logic
-- Key takeaways
-- Comparisons (when needed)
-- Real-life analogies (if applicable)
-
-This makes the learning journey **easier not only for me but also for anyone revisiting or viewing the project**.
+This approach ensures that the repository serves as both a practical coding resource and a learning tool for understanding OOP principles.
 
 ---
 
-## 🔧 Folder Structure
-├── 01_Using-self/<br>
+### Structure
+The repository is organized as follows:<br>
+
+├── 01_Using_self/<br>
 ├── 02_Using_cls/<br>
-├── 03_Pubclic_variables_and_methods/<br>
+├── 03_Public_variables_and_methods/<br>
 ├── ...<br>
 ├── 20_Custom_Exception/<br>
 ├── 21_Iterable_Class/<br>
 └── README.md<br>
 
----
-
-
 Each folder contains:
-- Source code (`app.py`)
+- A Python source file (app.py) with the assignment code
+
+### Getting Started
+**Prerequisites**
+
+- Python 3.10 or higher
+- A basic understanding of Python programming
+
+### Installation
+Clone the repository:
+
+git clone https://github.com/Mutahir-15/PYTHON-PROJECTS/06_oop_assignments.git
+cd 06_oop_assignments
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Mutahir-15/PYTHON-PROJECTS/06_oop_assignments.git
-   cd 01_Using_self
-
-2. Run an Assignment:
-   ```bash
-   cd 05_Static_Methods
-   python app.py
-
-
----
-
-### 🧠 Highlights
-- ✍️ All assignments written in Python 3.10+
-- 📘 Strong documentation & concept explanation
-- 🛠️ Error-handling and edge cases considered\
-- 🔁 Iterative learning with increasing complexity
+### Navigate to an assignment folder and run the code:
+cd 05_Static_Methods
+python app.py
 
 
 ---
 
 
-### 🙌 Final Note
-This project reflects my dedication to learning OOP the right way — not just through syntax but with clarity of thought and reusability in mind.
+### Features
 
-> *"Learning by building. Teaching by documenting."*
+- Comprehensive Coverage: Addresses a wide range of OOP concepts with increasing complexity.
+- Clear Documentation: Each assignment includes detailed explanations to facilitate understanding.
+- Robust Code: Incorporates error handling and considers edge cases for reliable execution.
+- Progressive Learning: Assignments are structured to build on previous knowledge, ensuring a smooth learning curve.
 
+
+### Contributing
+Contributions are welcome! If you have suggestions for improvements or additional assignments, please:
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Submit a pull request with a clear description of your updates.
 
 ---
 
-### 📌 Connect
-Want to collaborate, give feedback, or just say Hi?
-Feel free to connect on [Linkedin](https://www.linkedin.com/in/mutahir-bin-athar-516b15257/) or explore other projects in my [GitHub profile](https://github.com/Mutahir-15).
+### License
+This project is licensed under the MIT License. See the LICENSE.md file for details.
+
+---
+
+### Contact
+For questions, feedback, or collaboration opportunities, feel free to connect:
+
+LinkedIn: [Mutahir Bin Athar](https://www.linkedin.com/in/mutahir-bin-athar-516b15257/)
+GitHub: [Mutahir-15](https://github.com/Mutahir-15)
+
+Explore my other projects on GitHub to see more of my work.
+
+### Acknowledgments
+This project was developed as part of a learning journey to master OOP in Python. Special thanks to the open-source community for providing invaluable resources and inspiration.
