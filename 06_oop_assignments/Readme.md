@@ -88,7 +88,7 @@ This project is licensed under the MIT License. See the LICENSE.md file for deta
 ### Contact
 For questions, feedback, or collaboration opportunities, feel free to connect:
 
-LinkedIn: [Mutahir Bin Athar](https://www.linkedin.com/in/mutahir-bin-athar-516b15257/)
+LinkedIn: [Mutahir Bin Athar](https://www.linkedin.com/in/mutahir-bin-athar-516b15257/)<br>
 GitHub: [Mutahir-15](https://github.com/Mutahir-15)
 
 Explore my other projects on GitHub to see more of my work.
