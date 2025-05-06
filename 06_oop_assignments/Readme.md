@@ -16,7 +16,7 @@ The assignments cover essential OOP principles, including:
 - Property Decorators
 - Custom Exceptions
 - Iterable Classes
-- Callable Objects
+- Callable Objects<br>
 Each assignment is accompanied by a dedicated "Understanding Concepts" section that provides:
 - A clear explanation of the core logic
 - Key takeaways and insights
