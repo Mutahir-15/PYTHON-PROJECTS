@@ -95,4 +95,4 @@ GitHub: [Mutahir-15](https://github.com/Mutahir-15)
 Explore my other projects on GitHub to see more of my work.
 
 ### Acknowledgments
-This project was developed as part of a learning journey to master OOP in Python at [GIAIC](https://www.governorsindh.com/).<br> Special thanks to the open-source community for providing invaluable resources and inspiration. [Panaversity GitHub](https://github.com/panaversity)
+This project was developed as part of a learning journey to master OOP in Python at [GIAIC](https://www.governorsindh.com/).<br> Special thanks to the open-source community for providing invaluable resources and inspiration [Panaversity GitHub](https://github.com/panaversity).
