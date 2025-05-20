@@ -50,16 +50,17 @@ Each folder contains:
 
 ### Installation
 Clone the repository:
-
+```
 git clone https://github.com/Mutahir-15/PYTHON-PROJECTS/06_oop_assignments.git<br>
 cd 06_oop_assignments
-
+```
 ---
 
 ### Navigate to an assignment folder and run the code:
+```
 cd 05_Static_Methods
 python app.py
-
+```
 
 ---
 
